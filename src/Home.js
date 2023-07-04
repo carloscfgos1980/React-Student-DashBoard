@@ -49,7 +49,7 @@ const Home = () => {
 
     });
 
-    //console.log("realdata", data)
+    console.log("realdata", data)
     return (
         <div className="bg-secondary">
             <h1 className="display-5 text-center text-orange py-5 fw-bold">Winc Academy Chart</h1>
